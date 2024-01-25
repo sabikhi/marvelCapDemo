@@ -1,0 +1,502 @@
+[
+  {
+    "SrNo": 1,
+    "name": "3-D Man",
+    "comicsCount": 12
+  },
+  {
+    "SrNo": 2,
+    "name": "A-Bomb (HAS)",
+    "comicsCount": 4
+  },
+  {
+    "SrNo": 3,
+    "name": "A.I.M.",
+    "comicsCount": 53
+  },
+  {
+    "SrNo": 4,
+    "name": "Aaron Stack",
+    "comicsCount": 14
+  },
+  {
+    "SrNo": 5,
+    "name": "Abomination (Emil Blonsky)",
+    "comicsCount": 58
+  },
+  {
+    "SrNo": 6,
+    "name": "Abomination (Ultimate)",
+    "comicsCount": 2
+  },
+  {
+    "SrNo": 7,
+    "name": "Absorbing Man",
+    "comicsCount": 102
+  },
+  {
+    "SrNo": 8,
+    "name": "Abyss",
+    "comicsCount": 8
+  },
+  {
+    "SrNo": 9,
+    "name": "Abyss (Age of Apocalypse)",
+    "comicsCount": 3
+  },
+  {
+    "SrNo": 10,
+    "name": "Adam Destine",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 11,
+    "name": "Adam Warlock",
+    "comicsCount": 202
+  },
+  {
+    "SrNo": 12,
+    "name": "Aegis (Trey Rollins)",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 13,
+    "name": "Aero (Aero)",
+    "comicsCount": 29
+  },
+  {
+    "SrNo": 14,
+    "name": "Agatha Harkness",
+    "comicsCount": 23
+  },
+  {
+    "SrNo": 15,
+    "name": "Agent Brand",
+    "comicsCount": 31
+  },
+  {
+    "SrNo": 16,
+    "name": "Agent X (Nijo)",
+    "comicsCount": 18
+  },
+  {
+    "SrNo": 17,
+    "name": "Agent Zero",
+    "comicsCount": 29
+  },
+  {
+    "SrNo": 18,
+    "name": "Agents of Atlas",
+    "comicsCount": 45
+  },
+  {
+    "SrNo": 19,
+    "name": "Aginar",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 20,
+    "name": "Air-Walker (Gabriel Lan)",
+    "comicsCount": 4
+  },
+  {
+    "SrNo": 21,
+    "name": "Ajak",
+    "comicsCount": 4
+  },
+  {
+    "SrNo": 22,
+    "name": "Ajaxis",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 23,
+    "name": "Akemi",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 24,
+    "name": "Alain",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 25,
+    "name": "Albert Cleary",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 26,
+    "name": "Albion",
+    "comicsCount": 1
+  },
+  {
+    "SrNo": 27,
+    "name": "Alex Power",
+    "comicsCount": 18
+  },
+  {
+    "SrNo": 28,
+    "name": "Alex Wilder",
+    "comicsCount": 9
+  },
+  {
+    "SrNo": 29,
+    "name": "Alexa Mendez",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 30,
+    "name": "Alexander Pierce",
+    "comicsCount": 1
+  },
+  {
+    "SrNo": 31,
+    "name": "Alice",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 32,
+    "name": "Alicia Masters",
+    "comicsCount": 74
+  },
+  {
+    "SrNo": 33,
+    "name": "Alpha Flight",
+    "comicsCount": 221
+  },
+  {
+    "SrNo": 34,
+    "name": "Alpha Flight (Ultimate)",
+    "comicsCount": 2
+  },
+  {
+    "SrNo": 35,
+    "name": "Alvin Maker",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 36,
+    "name": "Amadeus Cho",
+    "comicsCount": 150
+  },
+  {
+    "SrNo": 37,
+    "name": "Amanda Sefton",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 38,
+    "name": "Amazoness",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 39,
+    "name": "American Eagle (Jason Strongbow)",
+    "comicsCount": 6
+  },
+  {
+    "SrNo": 40,
+    "name": "Amiko",
+    "comicsCount": 12
+  },
+  {
+    "SrNo": 41,
+    "name": "Amora",
+    "comicsCount": 13
+  },
+  {
+    "SrNo": 42,
+    "name": "Amphibian (Earth-712)",
+    "comicsCount": 4
+  },
+  {
+    "SrNo": 43,
+    "name": "Amun",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 44,
+    "name": "Ancient One",
+    "comicsCount": 30
+  },
+  {
+    "SrNo": 45,
+    "name": "Ancient One (Ultimate)",
+    "comicsCount": 2
+  },
+  {
+    "SrNo": 46,
+    "name": "Angel (Angel Salvadore)",
+    "comicsCount": 5
+  },
+  {
+    "SrNo": 47,
+    "name": "Angel (Thomas Halloway)",
+    "comicsCount": 10
+  },
+  {
+    "SrNo": 48,
+    "name": "Angel (Ultimate)",
+    "comicsCount": 19
+  },
+  {
+    "SrNo": 49,
+    "name": "Angel (Warren Worthington III)",
+    "comicsCount": 116
+  },
+  {
+    "SrNo": 50,
+    "name": "Angela (Aldrif Odinsdottir)",
+    "comicsCount": 37
+  },
+  {
+    "SrNo": 51,
+    "name": "Anita Blake",
+    "comicsCount": 9
+  },
+  {
+    "SrNo": 52,
+    "name": "Anne Marie Hoag",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 53,
+    "name": "Annihilus",
+    "comicsCount": 66
+  },
+  {
+    "SrNo": 54,
+    "name": "Anole",
+    "comicsCount": 6
+  },
+  {
+    "SrNo": 55,
+    "name": "Ant-Man (Eric O'Grady)",
+    "comicsCount": 45
+  },
+  {
+    "SrNo": 56,
+    "name": "Ant-Man (Hank Pym)",
+    "comicsCount": 43
+  },
+  {
+    "SrNo": 57,
+    "name": "Ant-Man (Scott Lang)",
+    "comicsCount": 138
+  },
+  {
+    "SrNo": 58,
+    "name": "Anthem",
+    "comicsCount": 11
+  },
+  {
+    "SrNo": 59,
+    "name": "Apocalypse",
+    "comicsCount": 132
+  },
+  {
+    "SrNo": 60,
+    "name": "Apocalypse (Ultimate)",
+    "comicsCount": 3
+  },
+  {
+    "SrNo": 61,
+    "name": "Aqueduct",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 62,
+    "name": "Arachne",
+    "comicsCount": 6
+  },
+  {
+    "SrNo": 63,
+    "name": "Araña",
+    "comicsCount": 27
+  },
+  {
+    "SrNo": 64,
+    "name": "Arcade",
+    "comicsCount": 35
+  },
+  {
+    "SrNo": 65,
+    "name": "Arcana",
+    "comicsCount": 2
+  },
+  {
+    "SrNo": 66,
+    "name": "Archangel",
+    "comicsCount": 563
+  },
+  {
+    "SrNo": 67,
+    "name": "Arclight",
+    "comicsCount": 14
+  },
+  {
+    "SrNo": 68,
+    "name": "Ares",
+    "comicsCount": 64
+  },
+  {
+    "SrNo": 69,
+    "name": "Argent",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 70,
+    "name": "Armadillo",
+    "comicsCount": 1
+  },
+  {
+    "SrNo": 71,
+    "name": "Armor (Hisako Ichiki)",
+    "comicsCount": 29
+  },
+  {
+    "SrNo": 72,
+    "name": "Armory",
+    "comicsCount": 1
+  },
+  {
+    "SrNo": 73,
+    "name": "Arnim Zola",
+    "comicsCount": 23
+  },
+  {
+    "SrNo": 74,
+    "name": "Arsenic",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 75,
+    "name": "Artiee",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 76,
+    "name": "Asgardian",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 77,
+    "name": "Askew-Tronics",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 78,
+    "name": "Asylum",
+    "comicsCount": 0
+  },
+  {
+    "SrNo": 79,
+    "name": "Atlas (Team)",
+    "comicsCount": 8
+  },
+  {
+    "SrNo": 80,
+    "name": "Attuma",
+    "comicsCount": 49
+  },
+  {
+    "SrNo": 81,
+    "name": "Aurora",
+    "comicsCount": 84
+  },
+  {
+    "SrNo": 82,
+    "name": "Avalanche",
+    "comicsCount": 47
+  },
+  {
+    "SrNo": 83,
+    "name": "Avengers",
+    "comicsCount": 2245
+  },
+  {
+    "SrNo": 84,
+    "name": "Avengers (Ultimate)",
+    "comicsCount": 39
+  },
+  {
+    "SrNo": 85,
+    "name": "Azazel (Mutant)",
+    "comicsCount": 7
+  },
+  {
+    "SrNo": 86,
+    "name": "Balder",
+    "comicsCount": 99
+  },
+  {
+    "SrNo": 87,
+    "name": "Banshee",
+    "comicsCount": 189
+  },
+  {
+    "SrNo": 88,
+    "name": "Banshee (Theresa Rourke)",
+    "comicsCount": 156
+  },
+  {
+    "SrNo": 89,
+    "name": "Baron Mordo (Karl Mordo)",
+    "comicsCount": 19
+  },
+  {
+    "SrNo": 90,
+    "name": "Baron Strucker",
+    "comicsCount": 47
+  },
+  {
+    "SrNo": 91,
+    "name": "Baron Zemo (Heinrich Zemo)",
+    "comicsCount": 38
+  },
+  {
+    "SrNo": 92,
+    "name": "Baron Zemo (Helmut Zemo)",
+    "comicsCount": 35
+  },
+  {
+    "SrNo": 93,
+    "name": "Baroness S'Bak",
+    "comicsCount": 1
+  },
+  {
+    "SrNo": 94,
+    "name": "Barracuda",
+    "comicsCount": 4
+  },
+  {
+    "SrNo": 95,
+    "name": "Bart Rozum",
+    "comicsCount": 2
+  },
+  {
+    "SrNo": 96,
+    "name": "Bastion",
+    "comicsCount": 37
+  },
+  {
+    "SrNo": 97,
+    "name": "Batroc the Leaper",
+    "comicsCount": 31
+  },
+  {
+    "SrNo": 98,
+    "name": "Battering Ram",
+    "comicsCount": 2
+  },
+  {
+    "SrNo": 99,
+    "name": "Battlestar",
+    "comicsCount": 9
+  },
+  {
+    "SrNo": 100,
+    "name": "Beak",
+    "comicsCount": 17
+  }
+]
