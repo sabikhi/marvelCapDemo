@@ -20,6 +20,15 @@ marvelApi.js - contains code for API calls to marvel API
 
  transformData.js - transform outputs of character and comics count into a JSON file
 
+ To execute the business logic and pull latest data from Marvel API. Do the following
+
+Setup node environment and install all required packages as per package.json
+bash >>    npm install axios md5 open
+
+run business login
+bash >> node transformData.js
+
+
  ----------------
 UI Layer
 -----------
